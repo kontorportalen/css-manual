@@ -1,0 +1,16 @@
+h1 {
+    font-size: 3rem;
+}
+
+.center {
+    text-align: center;
+}
+
+.font-large {
+    font-size: 2rem;
+}
+
+.white-on-black {
+    color: white;
+    background-color: black;
+}
